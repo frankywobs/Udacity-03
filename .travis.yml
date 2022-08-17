@@ -10,3 +10,4 @@ after_success:
     - docker push frankywobs/udagram-api-user:v3
     - docker push frankywobs/udagram-frontend:v3
     - docker push frankywobs/reverseproxy:v3
+    
